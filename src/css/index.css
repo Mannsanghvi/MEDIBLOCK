@@ -22,10 +22,24 @@ body{
     background-color: transparent;
 }
 
+.reg-text{
+    color: #333;
+}
 
-
+.reg-btn{
+    background-color: #333;
+    color: #fff;
+}
 
 .text-center1{
     text-align: center;
     font-size: 80px;
+}
+
+.text1{
+    color: #333;
+}
+.panel-new{
+    padding: 0px;
+    margin: 0px;
 }
