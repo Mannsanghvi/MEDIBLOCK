@@ -10,10 +10,22 @@ body{
 
 
 .background-img{
-    background-image: url(./shubham-dhage-_rZnChsIFuQ-unsplash.jpg);
+    background-image: url(./shubham-dhage-R2HtYWs5-QA-unsplash.jpg);
     background-size: cover;
     height: 100%;
     width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.background-img1{
+    background-image: url(./shubham-dhage-R2HtYWs5-QA-unsplash.jpg);
+    background-size: 20% 20%;
+/*    background-size:contain;*/
+    color: white;
+    height: 100%;
+    width: 100%;
+    background-repeat: repeat;
     margin: 0;
     padding: 0;
 }
@@ -23,7 +35,7 @@ body{
 }
 
 .reg-text{
-    color: #333;
+    color: white;
 }
 
 .reg-btn{
@@ -41,5 +53,27 @@ body{
 }
 .panel-new{
     padding: 0px;
+    margin: 0px;
+}
+
+.panel1{
+    margin-bottom: 50px;
+    border: solid 1px black;
+}
+
+
+
+.panel-heading2 {
+/*  padding: 2px 5px;*/
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  background-color: transparent;
+    
+}
+.text2{
+    color: white;
+}
+.container2{
     margin: 0px;
 }
