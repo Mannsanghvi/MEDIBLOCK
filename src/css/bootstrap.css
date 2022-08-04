@@ -5499,7 +5499,7 @@ button.list-group-item-danger.active:focus {
 .panel-footer {
   padding: 10px 15px;
   background-color: transparent;
-  border-top: 1px solid #ddd;
+/*  border-top: 1px solid #ddd;*/
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
@@ -5613,7 +5613,7 @@ button.list-group-item-danger.active:focus {
 .panel > .panel-body + .table-responsive,
 .panel > .table + .panel-body,
 .panel > .table-responsive + .panel-body {
-  border-top: 1px solid #ddd;
+/*  border-top: 1px solid #ddd;*/
 }
 .panel > .table > tbody:first-child > tr:first-child th,
 .panel > .table > tbody:first-child > tr:first-child td {
@@ -5690,7 +5690,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-group .panel-heading1 + .panel-collapse > .panel-body,
 .panel-group .panel-heading1 + .panel-collapse > .list-group {
-  border-top: 1px solid #ddd;
+/*  border-top: 1px solid #ddd;*/
 }
 .panel-group .panel-footer {
   border-top: 0;
@@ -5714,7 +5714,7 @@ button.list-group-item-danger.active:focus {
   background-color: #333;
 }
 .panel-default > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #ddd;
+/*  border-bottom-color: #ddd;*/
 }
 .panel-primary {
   border-color: #337ab7;
