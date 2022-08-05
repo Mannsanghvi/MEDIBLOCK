@@ -249,15 +249,15 @@ th {
     border: 1px solid #000;
   }
   .table {
-    border-collapse: collapse !important;
+/*    border-collapse: collapse !important;*/
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+/*    background-color: #fff !important;*/
   }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #ddd !important;
+/*    border: 1px solid #ddd !important;*/
   }
 }
 @font-face {
@@ -2282,11 +2282,11 @@ th {
   padding: 8px;
   line-height: 1.42857143;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+/*  border-top: 1px solid #ddd;*/
 }
 .table > thead > tr > th {
   vertical-align: bottom;
-  border-bottom: 2px solid #ddd;
+/*  border-bottom: 2px solid #ddd;*/
 }
 .table > caption + thead > tr:first-child > th,
 .table > colgroup + thead > tr:first-child > th,
@@ -2297,7 +2297,7 @@ th {
   border-top: 0;
 }
 .table > tbody + tbody {
-  border-top: 2px solid #ddd;
+/*  border-top: 2px solid #ddd;*/
 }
 .table .table {
   background-color: #fff;
@@ -2311,7 +2311,7 @@ th {
   padding: 5px;
 }
 .table-bordered {
-  border: 1px solid #ddd;
+/*  border: 1px solid #ddd;*/
 }
 .table-bordered > thead > tr > th,
 .table-bordered > tbody > tr > th,
@@ -2319,7 +2319,7 @@ th {
 .table-bordered > thead > tr > td,
 .table-bordered > tbody > tr > td,
 .table-bordered > tfoot > tr > td {
-  border: 1px solid #ddd;
+/*  border: 1px solid #ddd;*/
 }
 .table-bordered > thead > tr > th,
 .table-bordered > thead > tr > td {

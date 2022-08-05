@@ -103,3 +103,40 @@ body{
     margin-top: 0px;
     margin-bottom: 40px;
 }
+.subcontainer{
+    margin-top: 3%;
+}
+.sub1{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    text-align: center;
+    margin-right: 10%;
+    border: 1px solid white;
+    padding: 20px;
+}
+.sub2{
+    float: right;
+    width: 35%;
+    margin-right: 10%;
+    text-align: center;
+    border: 1px solid white;
+    padding: 20px;
+}
+h5{
+    font-size: 30px;
+}
+.abt-sub{
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 40px;
+    margin-top: 0px;
+/*    margin-bottom: 40px;*/
+}
+
+.sub-text{
+    margin-top: 20px;
+    font-size: 15px;
+}
